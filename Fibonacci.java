@@ -1,6 +1,6 @@
 
 /**
- *
+ * This class is used to generate fibonacci series. 
  * @author rahula
  */
 public class Fibonacci {
