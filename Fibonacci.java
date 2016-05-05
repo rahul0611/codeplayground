@@ -1,14 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
 /**
  *
  * @author rahula
  */
-public class PlayGround {
+public class Fibonacci {
 
     public static void main(String[] args) {
 
@@ -50,15 +45,9 @@ public class PlayGround {
                 
                 /** decrease number for loop condition ***/
                 number--;
-
             }
-
         } finally {
-
-            
-            
             if(scannerObject != null){
-                
                 scannerObject.close();
                 scannerObject = null;
             }
